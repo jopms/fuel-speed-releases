@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "Firmware version 1.0.0",
-  "download": "https://raw.githubusercontent.com/jopms/fuel-spped-releases/main/firmware.bin"
+  "version": "1.0.1",
+  "notes": "Firmware version 1.0.1",
+  "download": "https://raw.githubusercontent.com/jopms/fuel-speed-releases/main/firmware.bin"
 }
